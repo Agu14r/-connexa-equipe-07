@@ -1,10 +1,5 @@
 # Backlog Inicial — Connexa
 
-> Rascunho pronto para ser transcrito ao Azure Boards (Etapa 3 do RA-01), na ordem Epic → Feature → User Story.
-> As decisões sobre os pontos deliberadamente em aberto do briefing (slide 23) estão registradas na seção final.
-
----
-
 ## Épico 1 — Ingressante encontra e entra em um grupo compatível logo no início do semestre
 
 **Descrição (Azure Boards):** Reduzir a barreira de descoberta e aproximação que hoje deixa o ingressante fora de qualquer grupo por não saber que eles existem nem como se aproximar, elevando a adesão de ~20% para 45% ao final do semestre, com foco prioritário no público ingressante.
