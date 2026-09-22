@@ -485,7 +485,7 @@ Cenário: Formulário de cadastro sem rótulos para o leitor de tela
 | 16 | US-10 Sinalizar grupo ocioso automaticamente | 5 | Could |
 | 17 | US-11 Encerrar grupo inativo automaticamente | 3 | Could |
 
-Nenhuma tag `Wont` nesta lista — os itens fora do escopo (notas, mensageria, videoconferência própria, conteúdo didático, cobrança) já foram excluídos do backlog, conforme a Parte 3 do briefing, e por isso nem chegam a virar história.
+
 
 ---
 
@@ -500,4 +500,3 @@ Nenhuma tag `Wont` nesta lista — os itens fora do escopo (notas, mensageria, v
 | Encontro remoto ou presencial | Ambos suportados, com campo de modalidade | US-08 |
 | O que a coordenação enxerga | Visão agregada por curso e período, não nominal | US-12, US-13 |
 
-Estas são decisões de projeto, não do briefing — cabe à equipe justificá-las e, se quiser, registrá-las como ADR mais adiante.
